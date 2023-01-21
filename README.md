@@ -4,3 +4,6 @@
 This repo runs the action to sync the [LL Viewer](https://bitbucket.org/lindenlab/viewer/src/master/) BitBucket repo to my [github clone](https://github.com/Kadah/lindenlab-viewer)
 
 Should auto sync every 5-15 minutes or so.
+
+
+This has been retired since LL has since migrated to github.
